@@ -1,0 +1,26 @@
+{
+  "name": "nodepg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test-nodepg": "node index.js",
+    "gulanes-prob1": "gulanes-prob1.js",
+    "gulanes-prob2": "gulanes-prob2.js",
+    "gulanes-prob3": "gulanes-prob3.js",
+    "gulanes-prob4": "gulanes-prob4.js",
+    "gulanes-prob5": "gulanes-prob5.js",
+    "gulanes-prob6": "gulanes-prob6.js",
+    "gulanes-prob7": "gulanes-prob7.js"
+    
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "pg": "^7.18.1"
+  }
+}
